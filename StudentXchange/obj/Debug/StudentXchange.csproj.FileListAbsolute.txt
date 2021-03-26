@@ -1,0 +1,35 @@
+C:\development\Group project\service\StudentXchange\StudentXchange\bin\StudentXchange.dll.config
+C:\development\Group project\service\StudentXchange\StudentXchange\bin\StudentXchange.dll
+C:\development\Group project\service\StudentXchange\StudentXchange\bin\StudentXchange.pdb
+C:\development\Group project\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.csprojAssemblyReference.cache
+C:\development\Group project\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.csproj.CoreCompileInputs.cache
+C:\development\Group project\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.dll
+C:\development\Group project\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.pdb
+C:\Users\Tony Lebea\Desktop\New folder\Group project (9)\Group project\service\StudentXchange\StudentXchange\bin\StudentXchange.dll.config
+C:\Users\Tony Lebea\Desktop\New folder\Group project (9)\Group project\service\StudentXchange\StudentXchange\bin\StudentXchange.dll
+C:\Users\Tony Lebea\Desktop\New folder\Group project (9)\Group project\service\StudentXchange\StudentXchange\bin\StudentXchange.pdb
+C:\Users\Tony Lebea\Desktop\New folder\Group project (9)\Group project\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.csprojAssemblyReference.cache
+C:\Users\Tony Lebea\Desktop\New folder\Group project (9)\Group project\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.csproj.CoreCompileInputs.cache
+C:\Users\Tony Lebea\Desktop\New folder\Group project (9)\Group project\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.dll
+C:\Users\Tony Lebea\Desktop\New folder\Group project (9)\Group project\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.pdb
+C:\Users\Nikola\Desktop\RoslynMasters\service\StudentXchange\StudentXchange\bin\StudentXchange.dll.config
+C:\Users\Nikola\Desktop\RoslynMasters\service\StudentXchange\StudentXchange\bin\StudentXchange.dll
+C:\Users\Nikola\Desktop\RoslynMasters\service\StudentXchange\StudentXchange\bin\StudentXchange.pdb
+C:\Users\Nikola\Desktop\RoslynMasters\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\RoslynMasters\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\RoslynMasters\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.dll
+C:\Users\Nikola\Desktop\RoslynMasters\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.pdb
+C:\Users\Tony Lebea\Downloads\RoslynMasters\service\StudentXchange\StudentXchange\bin\StudentXchange.dll.config
+C:\Users\Tony Lebea\Downloads\RoslynMasters\service\StudentXchange\StudentXchange\bin\StudentXchange.dll
+C:\Users\Tony Lebea\Downloads\RoslynMasters\service\StudentXchange\StudentXchange\bin\StudentXchange.pdb
+C:\Users\Tony Lebea\Downloads\RoslynMasters\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.csprojAssemblyReference.cache
+C:\Users\Tony Lebea\Downloads\RoslynMasters\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.csproj.CoreCompileInputs.cache
+C:\Users\Tony Lebea\Downloads\RoslynMasters\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.dll
+C:\Users\Tony Lebea\Downloads\RoslynMasters\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.pdb
+C:\Users\Tony\Downloads\19\RoslynMasters\service\StudentXchange\StudentXchange\bin\StudentXchange.dll.config
+C:\Users\Tony\Downloads\19\RoslynMasters\service\StudentXchange\StudentXchange\bin\StudentXchange.dll
+C:\Users\Tony\Downloads\19\RoslynMasters\service\StudentXchange\StudentXchange\bin\StudentXchange.pdb
+C:\Users\Tony\Downloads\19\RoslynMasters\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.csprojAssemblyReference.cache
+C:\Users\Tony\Downloads\19\RoslynMasters\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.csproj.CoreCompileInputs.cache
+C:\Users\Tony\Downloads\19\RoslynMasters\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.dll
+C:\Users\Tony\Downloads\19\RoslynMasters\service\StudentXchange\StudentXchange\obj\Debug\StudentXchange.pdb
